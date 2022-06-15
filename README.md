@@ -11,3 +11,5 @@ Creation of a mock landing page using the following concepts and parameters:
 - CSS class selectors
 - Different font styles and weights
 - Imported fonts
+
+Note: landing page layout is non-responsive and styling was conducted based on a vertical-oriented reference image (height > width)
